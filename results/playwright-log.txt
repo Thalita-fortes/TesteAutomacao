@@ -1,0 +1,27 @@
+{"level":30,"time":"2023-12-07T10:38:44.524Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"Listening on 59694"}
+{"level":30,"time":"2023-12-07T10:38:44.948Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T10:38:44.948Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T10:38:44.951Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T10:38:44.951Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\index.js:9470:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\index.js:9991:59)
+    at PlaywrightServer.setTimeout (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\index.js:10237:57)
+    at handleUnary (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:852:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+=============================================================
+{"level":30,"time":"2023-12-07T10:38:44.985Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T10:38:44.985Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\index.js:9470:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\index.js:9991:59)
+    at PlaywrightServer.setTimeout (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\index.js:10237:57)
+    at handleUnary (C:\Users\Gledson Nascimento\AppData\Local\Programs\Python\Python311\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:852:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+=============================================================
+{"level":30,"time":"2023-12-07T10:38:45.004Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T10:38:45.004Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-07T10:38:45.030Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-12-07T10:38:45.031Z","pid":9772,"hostname":"DESKTOP-6PNS909","msg":"End of node method closeAllBrowsers"}
